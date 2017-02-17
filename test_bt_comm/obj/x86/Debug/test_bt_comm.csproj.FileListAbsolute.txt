@@ -1,0 +1,145 @@
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.exe
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.pdb
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\hci_coder_net.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\IronPython.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\Signalyzer.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\Ulpbt.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\UlpbtUtils.dll
+D:\source\vs2010\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.xml
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Form1.resources
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Properties.Resources.resources
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+D:\source\vs2010\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\IronPython.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.csprojResolveAssemblyReference.cache
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Form1.resources
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Properties.Resources.resources
+C:\Users\GLN\Desktop\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\IronPython.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Form1.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\test_bt_comm.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\test_bt_comm.Form1.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\test_bt_comm.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\IronPython.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_2\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\IronPython.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\test_bt_comm.Form1.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\test_bt_comm.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_3\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\IronPython.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Form1.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\IronPython.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Form1.resources
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Properties.Resources.resources
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\GLN_Work2015_8_23\desk\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.exe
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\test_bt_comm.pdb
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\hci_coder_net.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\IronPython.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\Signalyzer.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\Ulpbt.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\UlpbtUtils.dll
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\bin\Debug\MasterEmulator.xml
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Form1.resources
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\nRFUart.Properties.Resources.resources
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gln\Desktop\test_bt_comm_4\test_bt_comm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gln\Desktop\test_bt_comm_6\test_bt_comm\obj\x86\Debug\test_bt_comm.exe
+C:\Users\Gln\Desktop\test_bt_comm_6\test_bt_comm\obj\x86\Debug\test_bt_comm.pdb
